@@ -18,6 +18,6 @@ prediction on developing (or not developing) a pod. With this option,
 doctors have the option to come up with preventive measures before going 
 ahead with a surgery for a specific patient.
 
-![overview](images/Overview_Dashboard_APP_picture.png)
-![explainableAI](images/Explainability_SHAP.png)
+![overview](images/Overview_Dashboard_APP_picture.PNG)
+![explainableAI](images/Explainability_SHAP.PNG)
 
