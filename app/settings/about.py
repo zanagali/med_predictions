@@ -1,0 +1,1 @@
+txt = "Note from Dani, Elena and Zana: this will be a dashboard for pipra showing different interesting graphics to predict pod. "
